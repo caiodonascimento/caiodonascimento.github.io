@@ -1,7 +1,7 @@
 ---
-title: Conf42 2023 - 3 Practices to ensure a smooth Platform Engineering adoption
+title: 3 Practices to ensure a smooth Platform Engineering adoption
 date: 2023-09-07 08:00:00 +/-TTTT
-categories: [events, talks]
+categories: [platform-engineering, culture]
 tags: [platform-engineering, english]     # TAG names should always be lowercase
 comments: true
 ---
@@ -19,6 +19,8 @@ If you missed this session, or wanna check it again, the recording is available 
 {% include embed/youtube.html id='9AsrE_iAO7U' %}
 
 Furthermore, the slides are available here in the [page of the event](https://www.conf42.com/Platform_Engineering_2023_Caio_Medeiros_Pinto_3_practices_to_ensure_a_smooth_platform_engineering_ad).
+
+I also had the chance to present this talk in [DevOpsDays Medellin 2023](https://devopsdays.io/ponentes-2023-1), unfortunately they didn't record the session.
 
 > **What do you think?** do you agree with me, are these practices keys to successfuly form Platform teams? left your comments below.
 {: .prompt-tip }

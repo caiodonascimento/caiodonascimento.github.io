@@ -1,5 +1,5 @@
 ---
-title: Nerdearla 101 - DevOps is more than technology
+title: DevOps is more than technology
 date: 2023-12-24 08:00:00 +/-TTTT
 categories: [events, talks]
 tags: [devops, spanish]     # TAG names should always be lowercase
