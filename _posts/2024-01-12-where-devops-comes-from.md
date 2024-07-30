@@ -1,6 +1,6 @@
 ---
 title: "Where DevOps comes from: why it's important to get back to origin?"
-date: 2023-12-24 08:00:00 +/-TTTT
+date: 2024-07-30 08:00:00 +/-TTTT
 categories: [devops, culture]
 tags: [devops, culture, english]     # TAG names should always be lowercase
 comments: true
