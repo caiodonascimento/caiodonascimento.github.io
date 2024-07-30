@@ -26,7 +26,7 @@ It highlights some crucial DevOps aspects:
 
 All these sounds super logical for those who didn't have the chance to face the challenges of traditional IT organizations, I'm talking about siloed organizations which match more as Pathological or Bureaucratic based on [Westrum's Organization Model](https://itrevolution.com/articles/westrums-organizational-model-in-tech-orgs/), a simple way to figure out the differences between a traditional IT organization and DevOps is the following benchmark shared by Mustafa Kapadia in the post called ["Comparing DevOps to traditional IT: Eight key differences"](https://devops.com/comparing-devops-traditional-eight-key-differences/):
 
-![Comparing DevOps vs Traditional](./mustafa-post-comparing-devops-and-traditional.png)
+![Comparing DevOps vs Traditional](https://devops.com/wp-content/uploads/2015/02/mustafa.jpg)
 _Image from Mustafa Kapadia blog post called "Comparing DevOps to traditional IT: Eight key differences" published on DevOps.com web page_
 
 Unfortunately, the quote from "The DevOps Handbook" doesn't sound as a definition, it's more a vision (as I mentioned before). Since DevOps was coined, communities, thought leaders, and companies several times tried to set one general definition for this concept, but there is no agreement because it's a continuous improving movement. However, one of the most important influential figures in this matter, Gene Kim, provides this one:
