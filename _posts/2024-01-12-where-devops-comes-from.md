@@ -4,6 +4,8 @@ date: 2024-07-30 08:00:00 +/-TTTT
 categories: [devops, culture]
 tags: [devops, culture, english]     # TAG names should always be lowercase
 comments: true
+image:
+  path: /assets/img/devops-meme.jpeg
 ---
 
 Ask to any engineer if he/she knows where DevOps concept comes from, sometimes it's important return to the origin to understand the real meaning of matters. After years working as DevOps human, building up and maintaining platforms, helping to form engineers and teams, furthermore taking part of hiring processes, I could realize the simple fact that DevOps initiatives and humans have been focusing more on technologies and platforms putting less effort on the research and continuous learning of mindset and principles. 
