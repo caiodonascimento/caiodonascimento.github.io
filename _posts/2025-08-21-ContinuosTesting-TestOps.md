@@ -8,6 +8,6 @@ comments: true
 
 Tuve la gran oportunidad de sere aceptado para por primera vez presentar mi charla sobre Continuous Testing y TestOps en el primer DevOpsDays de Lima.
 
-Encuentra mi slide aqui: [Slides](caiodonascimento.github.io/assets/dod-lima-2025-slides.pdf).
+Encuentra mi slide aqui: [Slides](../assets/dod-lima-2025-slides.pdf).
 
 Pronto publicaré un resumen de esta charla y la grabación del evento.
